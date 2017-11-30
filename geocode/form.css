@@ -1,0 +1,14 @@
+.geocode-attr {}
+
+.geocode-attr .form-group {padding:10px !important;}
+
+.geocode-attr .map {display: block;
+            width: 100%;
+            height:300px;
+            background: #FFF; overflow: hidden;}
+
+.geocode-attr .checkbox {display: inline-block !important; padding-right:5px !important; top:6px; position: relative;}
+
+/*
+ .geocode-attr .map-cont {height:0; overflow: hidden;}
+ .geocode-attr .map-cont.active {height:300px;}*/
